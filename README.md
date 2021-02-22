@@ -1,4 +1,4 @@
-# truss-data
+# Truss-data
 This repository includes the data corresponding to the load cases and topology of the truss sizing optimization instances.
 
 Here, the index sets of nodes and bars start from zero.
